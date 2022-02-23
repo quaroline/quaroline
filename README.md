@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center" style="cursor:default">
   <img src="https://i.imgur.com/Fj9Z9YF.gif" alt="Welcome to my GitHub!"/>
 </h1>
 
