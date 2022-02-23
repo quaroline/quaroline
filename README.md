@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">
+  
+</h1>
 
-<!--
-**quaroline/quaroline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Welcome! 👋
 
-Here are some ideas to get you started:
+- 👽 Carolynne Silva. Brazilian, 23 yo, full stack developer
+- 📪 [Linkedin](https://www.linkedin.com/in/carolynne-p-175a57104/) && [carodilha@gmail.com](mailto:carodilha@gmail.com)
+- 👾 quaroline on [Steam](https://steamcommunity.com/id/quaroline)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+
+- 🧱 C# ASP.NET (Framework || Core) && Nodejs
+- 🎨 Angular, Knockout && vanilla technologies
+- 🌨️ AWS & Azure DevOps
