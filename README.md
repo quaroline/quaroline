@@ -12,4 +12,3 @@
 
 - 🧱 C# ASP.NET (Framework || Core) && Nodejs
 - 🎨 Angular, Knockout && vanilla technologies
-- 🌨️ AWS & Azure DevOps
